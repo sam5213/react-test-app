@@ -1,6 +1,6 @@
-import { Button } from "@/components/ui/Button"
+import { Button } from "./ui/Button"
 import Image from "next/image"
-import { Confetti } from "@/components/Confetti"
+import { Confetti } from "./Confetti"
 
 interface QuizCompleteProps {
   onBookLesson: () => void

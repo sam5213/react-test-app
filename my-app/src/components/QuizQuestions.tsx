@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import { Button } from "@/components/ui/Button"
-import { Card } from "@/components/ui/Card"
-import { RadioGroup, RadioGroupItem } from "@/components/ui/RadioGroup"
-import { Label } from "@/components/ui/Label"
+import { Button } from "./ui/Button"
+import { Card } from "./ui/Card"
+import { RadioGroup, RadioGroupItem } from "./ui/RadioGroup"
+import { Label } from "./ui/Label"
 import { ChevronLeft, ChevronRight } from 'lucide-react'
 import Image from 'next/image'
 

@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { Card } from "./components/ui/Card"
-import { QuizStart } from '@/components/QuizStart'
+import { QuizStart } from './components/QuizStart'
 import { QuizQuestions } from './components/QuizQuestions'
 import { QuizComplete } from './components/QuizComplete'
 import { BookingModal } from './components/BookingModal'

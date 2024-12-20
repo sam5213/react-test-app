@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/mocha": "^10.0.10"
+  },
+  "dependencies": {
+    "web-vitals": "^4.2.4"
+  }
+}
