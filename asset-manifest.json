@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-test-app/static/css/main.e6c13ad2.css",
-    "main.js": "/react-test-app/static/js/main.78f91f92.js",
-    "static/js/453.d7975b8d.chunk.js": "/react-test-app/static/js/453.d7975b8d.chunk.js",
-    "static/media/_interop_require_wildcard.cjs": "/react-test-app/static/media/_interop_require_wildcard.c54f7b5a0af7468af809.cjs",
-    "index.html": "/react-test-app/index.html",
-    "static/media/_interop_require_default.cjs": "/react-test-app/static/media/_interop_require_default.9765e935c5a6e5dec7f6.cjs",
-    "main.e6c13ad2.css.map": "/react-test-app/static/css/main.e6c13ad2.css.map",
-    "main.78f91f92.js.map": "/react-test-app/static/js/main.78f91f92.js.map",
-    "453.d7975b8d.chunk.js.map": "/react-test-app/static/js/453.d7975b8d.chunk.js.map"
+    "main.css": "/react-test-ap/pmy-app/static/css/main.e6c13ad2.css",
+    "main.js": "/react-test-ap/pmy-app/static/js/main.1824190c.js",
+    "static/js/453.d7975b8d.chunk.js": "/react-test-ap/pmy-app/static/js/453.d7975b8d.chunk.js",
+    "index.html": "/react-test-ap/pmy-app/index.html",
+    "static/media/_interop_require_wildcard.cjs": "/react-test-ap/pmy-app/static/media/_interop_require_wildcard.c54f7b5a0af7468af809.cjs",
+    "static/media/_interop_require_default.cjs": "/react-test-ap/pmy-app/static/media/_interop_require_default.9765e935c5a6e5dec7f6.cjs",
+    "main.e6c13ad2.css.map": "/react-test-ap/pmy-app/static/css/main.e6c13ad2.css.map",
+    "main.1824190c.js.map": "/react-test-ap/pmy-app/static/js/main.1824190c.js.map",
+    "453.d7975b8d.chunk.js.map": "/react-test-ap/pmy-app/static/js/453.d7975b8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.78f91f92.js"
+    "static/js/main.1824190c.js"
   ]
 }
